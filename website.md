@@ -28,6 +28,6 @@
 - 网易见外：https://jianwai.netease.com/index
 - 以图搜动漫：https://whatanime.ga
 - 图书比价-缺书网：http://www.queshu.com
-<br/>  
+<br/>
 
-### &nbsp;&nbsp;&nbsp;&nbsp; [ <-返回](https://github.com/Zephyr006/sharing)
+### &nbsp;&nbsp;&nbsp;&nbsp; [＜返回](https://github.com/Zephyr006/sharing)
