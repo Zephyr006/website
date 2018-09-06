@@ -1,5 +1,5 @@
 #### 在线视频 
-> 降龙影院：[http://xlyy100.com](http://xlyy100.com)  
+> 降龙影院：<a target="_blank" href="http://xlyy100.com">http://xlyy100.com</a>    
 > 没事影院：http://www.qqm4.com  
 > 疯狂影视搜索：http://ifkdy.com  
 > 追剧扒：http://www.zhuij8.com  
