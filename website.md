@@ -10,6 +10,7 @@
 - PDF工具合集：https://www.ilovepdf.com/zh_cn
 - CSS.JS压缩, 美化, 加解密：https://tool.css-js.com
 - Markdown在线编辑：https://www.zybuluo.com/mdeditor
+- 临时文件分享：https://send.firefox.com
 - 视频、图像、文档、电子书等格式转换：https://convertio.co/zh
 - 万能文件转换：https://cloudconvert.com
 - 网易见外：https://jianwai.netease.com/index
