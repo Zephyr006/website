@@ -1,7 +1,16 @@
 ### 目录
   1. [网站分享](https://github.com/Zephyr006/sharing/blob/master/website.md)  
-  2. [百度云资源](#百度云资源)  
+  2. [Github优秀项目](#Github项目)
+  3. [百度云资源](#百度云资源)  
+  4. [其他资源]（#其他资源）
+------
+## Github项目  
+- Java核心知识：https://github.com/crossoverJie/JCSprout
+- 程序员学习笔记：https://github.com/CyC2018/CS-Notes
+- Python面试题：https://github.com/taizilongxu/interview_python
 ------
 ## 百度云资源  
 - java基础教学：https://pan.baidu.com/s/1tIry1N4t89OAj5zTYWIBBw 密码：y8fs
 - 黑客教学：https://pan.baidu.com/s/1Qm4s16mV81lJoeNysmh4pw 密码：j855
+## 其他资源  
+- 
