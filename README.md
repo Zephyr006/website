@@ -1,6 +1,6 @@
 ### 目录
-  1. [网站分享](https://github.com/Zephyr006/sharing/blob/master/website.md)  
-  2. [优秀Github项目](#Github项目)
+  1. [网站分享](/blob/master/website.md)  
+  2. [优秀Github项目](#优秀Github项目)
   3. [百度云资源](#百度云资源)  
   4. [其他资源](#其他资源)
 ------
