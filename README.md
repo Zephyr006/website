@@ -1,10 +1,10 @@
 ### 目录
   1. [网站分享](https://github.com/Zephyr006/sharing/blob/master/website.md)  
-  2. [优秀Github项目](#优秀Github项目)
+  2. [优秀Github项目](#优秀github项目)
   3. [百度云资源](#百度云资源)  
   4. [其他资源](#其他资源)
 ------
-## 优秀Github项目  
+## 优秀github项目  
 - Java核心知识：https://github.com/crossoverJie/JCSprout
 - Java学习指南：https://github.com/Snailclimb/Java-Guide
 - 程序员学习笔记：https://github.com/CyC2018/CS-Notes
