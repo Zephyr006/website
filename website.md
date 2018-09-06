@@ -17,10 +17,6 @@
 - YouTube to MP4&MP3：https://www.clipconverter.cc
 #### BT下载 
 - bt之家：http://www.btbtt.me  [备用1](http://www.btbtt.co)  [备用2](http://www.btbtt.pw/) [备用3](http://www.btbtt.com/)  
-#### 资源下载 
-- 微软产品下载中心：http://msdn.itellyou.cn
-- 谷歌Chrome浏览器：[64位离线安装包](https://www.google.com/chrome/browser/desktop/index.html?platform=win64&extra=stablechannel&standalone=1)
-- 压缩软件：[BandiZip for Windows x64](https://cn.bandisoft.com/bandizip//bandizip/dl.php?web) 
 #### 有意思
 - 假装 Windows 升级：http://fakeupdate.net
 - 你好污啊：https://www.nihaowua.com
