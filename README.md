@@ -9,7 +9,6 @@
 - Java学习指南：https://github.com/Snailclimb/Java-Guide
 - 程序员学习笔记：https://github.com/CyC2018/CS-Notes
 - Python面试题：https://github.com/taizilongxu/interview_python
-- 以图搜动漫：https://github.com/soruly/whatanime.ga
 ------
 ## 百度云资源  
 - java基础教学：https://pan.baidu.com/s/1tIry1N4t89OAj5zTYWIBBw 密码：y8fs
