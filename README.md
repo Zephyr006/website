@@ -16,6 +16,6 @@
 ------
 ## 其他资源  
 - 微软产品下载中心：http://msdn.itellyou.cn
-- 谷歌Chrome浏览器：[64位离线安装包](www.google.com/chrome/browser/desktop/index.html?platform=win64&extra=stablechannel&standalone=1)
-- 压缩软件：[BandiZip for Windows x64](https://cn.bandisoft.com/bandizip//bandizip/dl.php?web) 
+- 谷歌Chrome浏览器：[64位离线安装包](https://www.google.com/chrome/browser/desktop/index.html?platform=win64&extra=stablechannel&standalone=1)
+- 压缩软件：[BandiZip for Windows x64](https://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE) 
 - 图片上传管理工具：https://github.com/Molunerfinn/PicGo/releases
