@@ -11,8 +11,12 @@
 - Python面试题：https://github.com/taizilongxu/interview_python
 ------
 ## 百度云资源  
-- java基础教学：https://pan.baidu.com/s/1tIry1N4t89OAj5zTYWIBBw 密码：y8fs
-- 黑客教学：https://pan.baidu.com/s/1Qm4s16mV81lJoeNysmh4pw 密码：j855
+- Java基础: https://pan.baidu.com/s/1bn9OSWwgPT4-paTcFisvUg 密码: g9kt
+- Python基础: https://pan.baidu.com/s/1uQnfyRJJdVvcyEG8m1Pipw 密码: x6pt
+- 大数据基础: https://pan.baidu.com/s/11jLjJF4pfwJLfDD1LkHA8w 密码: h4bk
+- 千锋大数据-Hadoop: https://pan.baidu.com/s/1hSNr9rFGNG5zH-t4WkiVWA 密码: g65r
+- 千锋大数据-Spqrk: https://pan.baidu.com/s/1AFt3wNfIaGxloGrGAnttug 密码: 1nhr
+- 大数据实战: https://pan.baidu.com/s/1YfDoIDAiH8VCmEdMwdoniA 密码: znqj
 ------
 ## 其他资源  
 - 微软产品下载中心：http://msdn.itellyou.cn
