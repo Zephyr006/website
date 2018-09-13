@@ -1,5 +1,5 @@
 ### 目录
-  1. [网站分享](https://github.com/Zephyr006/sharing/blob/master/website.md#在线视频)  
+  1. [网站分享](https://github.com/Zephyr006/sharing/blob/master/website.md#readme)  
   2. [百度云资源](#百度云资源)  
   3. [优秀Github项目](#优秀github项目)
   4. [其他资源](#其他资源)
