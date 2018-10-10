@@ -1,10 +1,11 @@
 #### 在线视频 
 > 降龙影院：http://xlyy100.com  
 > 没事影院：http://www.qqm4.com  
-> 喵搜-动漫搜索：https://nyaso.com/  
-> 天使动漫：http://s-dm.com/index.html  
 > 疯狂影视搜索：http://ifkdy.com  
 > 追剧扒：http://www.zhuij8.com  
+> 喵搜-动漫搜索：https://nyaso.com/  
+> 天使动漫：http://s-dm.com/index.html  
+> 新世界动漫：http://www.x4jdm.com/
  #### 在线工具 
 > 1024程序员工具箱：https://1024tools.com  
 > 玩转PDF转换：https://smallpdf.com/cn  
