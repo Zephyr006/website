@@ -3,16 +3,18 @@
 > 没事影院：http://www.qqm4.com  
 > 追剧扒：http://www.zhuij8.com  
 > 天使动漫：http://s-dm.com/index.html  
-> 新世界动漫：http://www.x4jdm.com/  
-> 喵搜-动漫搜索：https://nyaso.com/  
+> 新世界动漫：http://www.x4jdm.com  
+> 喵搜-动漫搜索：https://nyaso.com  
 #### BT Download 
 > bt之家：http://www.btbtt.me  [备用1](http://www.btbtt.co)  [备用2](http://www.btbtt.pw/) [备用3](http://www.btbtt.com/)  
-> 飘花电影：https://www.piaohua.com/  
-> 电影王国：https://www.moviewg.com/  
+> 飘花电影：https://www.piaohua.com  
+> 电影王国：https://www.moviewg.com  
 #### Search Engine  
+> Google-思谋学术：http://ac.scmor.com  
 > 网盘搜索-SO NCCKL：https://so.ncckl.cn  
 > 视频搜索-疯狂影视搜索：http://ifkdy.com  
 > 音乐搜索-2333实验室：https://music.2333.me  
+> 音乐搜索-搜你妹：http://music.sonimei.cn  
 #### Tools 
 > 1024程序员工具箱：https://1024tools.com  
 > 玩转PDF转换：https://smallpdf.com/cn  
