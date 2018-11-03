@@ -1,9 +1,8 @@
 #### Online Video 
 > 降龙影院：http://xlyy100.com  
-> 没事影院：http://www.qqm4.com  
+> 没事影院：http://www.8mmj.com  
 > 天使动漫：http://s-dm.com/index.html  
 > 喵搜-动漫搜索：https://nyaso.com  
-> 追剧扒：http://www.zhuij8.com  
 #### BT Download 
 > bt之家：http://www.btbtt.me  [备用1](http://www.btbtt.co)  [备用2](http://www.btbtt.pw/) [备用3](http://www.btbtt.com/)  
 > 飘花电影：https://www.piaohua.com  
