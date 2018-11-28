@@ -7,8 +7,8 @@
 #### Search Engine  
 > Google镜像-思谋学术：http://ac.scmor.com  
 > Google镜像-Y学术：https://ab.waguge.com  
-> Google镜像1- https://ge.uulucky.com  
-> Google镜像2- http://www.kaseng.top  
+> Google镜像1 - https://ge.uulucky.com  
+> Google镜像2 - http://www.kaseng.top  
 > 网盘搜索-SO NCCKL：https://so.ncckl.cn  
 > 视频搜索-疯狂影视搜索：http://ifkdy.com  
 > 音乐搜索-2333实验室：https://music.2333.me  
