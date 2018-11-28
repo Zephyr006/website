@@ -5,7 +5,7 @@
 > 不死鸟资源汇总：https://lai.yuweining.cn/archives/531  
 > 喵搜-动漫搜索：https://nyaso.com  
 #### BT Download 
-> bt之家：http://www.btbtt.me  [备用1](http://www.btbtt.co)  [备用2](http://www.btbtt.pw) [备用3](http://www.btbtt.com)  <a href="https://sukebei.nyaa.si" target="_blank" title="18plus" rel="author">.</a>  
+> bt之家：http://www.btbtt.me  [备用1](http://www.btbtt.co)  [备用2](http://www.btbtt.pw) [备用3](http://www.btbtt.com)  <a href="https://sukebei.nyaa.si" target="_blank" title="18plus" rel="author">&emsp;</a>  
 > 飘花电影：https://www.piaohua.com  
 > 高清MP4吧：http://www.mp4ba.com  
 > 电影王国：https://www.moviewg.com  
