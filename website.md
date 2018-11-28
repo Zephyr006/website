@@ -15,7 +15,7 @@
 > 音乐搜索-搜你妹：http://music.sonimei.cn  
 > 音乐搜索-不死鸟：https://lai.yuweining.cn/music  
 #### BT Download 
-> bt之家：http://www.btbtt.me  [备用1](http://www.btbtt.co)  [备用2](http://www.btbtt.pw) [备用3](http://www.btbtt.com)  <a href="https://sukebei.nyaa.si" target="_blank" title="18plus" rel="author">&emsp;</a>  
+> bt之家:[&nbsp;](https://sukebei.nyaa.si)  http://www.btbtt.me  [备用1](http://www.btbtt.co)  [备用2](http://www.btbtt.pw) [备用3](http://www.btbtt.com)  
 > 飘花电影：https://www.piaohua.com  
 > 高清MP4吧：http://www.mp4ba.com  
 > 电影王国：https://www.moviewg.com  
