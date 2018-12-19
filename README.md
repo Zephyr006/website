@@ -9,7 +9,7 @@
 - Python基础: https://pan.baidu.com/s/1uQnfyRJJdVvcyEG8m1Pipw 密码: x6pt
 - 大数据基础: https://pan.baidu.com/s/11jLjJF4pfwJLfDD1LkHA8w 密码: h4bk
 - 千锋大数据-Hadoop: https://pan.baidu.com/s/1hSNr9rFGNG5zH-t4WkiVWA 密码: g65r
-- 千锋大数据-Spqrk: https://pan.baidu.com/s/1AFt3wNfIaGxloGrGAnttug 密码: 1nhr
+- 千锋大数据-Spqrk: https://pan.baidu.com/s/1AFt3wNfIaGxloGrGAnttug 密码: 1nhr  
 - 大数据实战: https://pan.baidu.com/s/1YfDoIDAiH8VCmEdMwdoniA 密码: znqj
 ------
 ## 优秀github项目  
