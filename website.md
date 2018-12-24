@@ -11,9 +11,9 @@
 > Google镜像2 - http://www.kaseng.top  
 > 网盘搜索-SO NCCKL：https://so.ncckl.cn  
 > 视频搜索-疯狂影视搜索：http://ifkdy.com  
-> 音乐搜索-2333实验室：https://music.2333.me  
 > 音乐搜索-搜你妹：http://music.sonimei.cn  
 > 音乐搜索-不死鸟：https://lai.yuweining.cn/music  
+> 音乐搜索-2333实验室：https://music.2333.me  
 #### BT Download 
 > bt之家:[&nbsp;](https://sukebei.nyaa.si)  http://www.btbtt.me  [备用1](http://www.btbtt.co)  [备用2](http://www.btbtt.pw) [备用3](http://www.btbtt.com)  
 > 飘花电影：https://www.piaohua.com  
