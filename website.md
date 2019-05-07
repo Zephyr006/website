@@ -1,7 +1,7 @@
 #### Online Video 
-> 降龙影院：http://xlyy100.com  
-> 没事影院：http://www.8mmj.com  
-> 天使动漫：http://s-dm.com/index.html  
+> 疯狂电影迷：http://fkdy.me  
+> 没事影院：http://www.9zgg.com  
+> 天使动漫：http://fodm.net/index.html  
 > 不死鸟资源汇总：https://lai.yuweining.cn/archives/531  
 > 喵搜-动漫搜索：https://nyaso.com  
 #### Search Engine  
@@ -15,11 +15,7 @@
 > bt之家:[&nbsp;](https://sukebei.nyaa.si)  http://www.btbtt.me  [备用1](http://www.btbtt.co)  [备用2](http://www.btbtt08.com/) [备用3](http://415.net)  
 > 飘花电影：https://www.piaohua.com  
 > 高清MP4吧：http://www.mp4ba.com  
-> 电影王国：https://www.moviewg.com  
 > BTKITTY：http://cnbtkitty.pw  
-> BTDB：https://btdb.to  
-> SkrBT：http://skrbt.club  
-> 磁力豆：http://cilidou.cn  
 > Nyaa(动漫为主)：https://nyaa.si  
 > torrentkitty：https://www.torrentkitty.tv/search  
 #### Tools 
