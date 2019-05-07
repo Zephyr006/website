@@ -19,6 +19,7 @@
 > Nyaa(动漫为主)：https://nyaa.si  
 > torrentkitty：https://www.torrentkitty.tv/search  
 #### Tools 
+> 网页版度盘下载：https://www.baiduwp.com  
 > 1024程序员工具箱：https://1024tools.com  
 > 玩转PDF转换：https://smallpdf.com/cn  
 > PDF工具合集：https://www.ilovepdf.com/zh_cn  
@@ -34,7 +35,6 @@
 > 在线颜值测试：https://www.prettyscale.com  
 > 制作卡通头像：https://avatarmaker.com  
 > 趣站志：http://diebang.net  
-> 有趣网址之家：https://youquhome.com  
 > 运营商劫持测试：http://tools.ldstu.com/ad/index.html
 #### Others   
 > 网易见外：https://jianwai.netease.com/index  
