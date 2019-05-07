@@ -5,17 +5,14 @@
 > 不死鸟资源汇总：https://lai.yuweining.cn/archives/531  
 > 喵搜-动漫搜索：https://nyaso.com  
 #### Search Engine  
-> Google镜像-思谋学术：http://ac.scmor.com  
-> Google镜像-Y学术：https://ab.waguge.com  
+> Google镜像-思谋学术：http://ac.scmor.com   
 > Google镜像1 - https://ge.uulucky.com  
 > Google镜像2 - http://www.kaseng.top  
-> 网盘搜索-SO NCCKL：https://so.ncckl.cn  
 > 视频搜索-疯狂影视搜索：http://ifkdy.com  
 > 音乐搜索-搜你妹：http://music.sonimei.cn  
 > 音乐搜索-不死鸟：https://lai.yuweining.cn/music  
-> 音乐搜索-2333实验室：https://music.2333.me  
 #### BT Download 
-> bt之家:[&nbsp;](https://sukebei.nyaa.si)  http://www.btbtt.me  [备用1](http://www.btbtt.co)  [备用2](http://www.btbtt.pw) [备用3](http://415.net)  
+> bt之家:[&nbsp;](https://sukebei.nyaa.si)  http://www.btbtt.me  [备用1](http://www.btbtt.co)  [备用2](http://www.btbtt08.com/) [备用3](http://415.net)  
 > 飘花电影：https://www.piaohua.com  
 > 高清MP4吧：http://www.mp4ba.com  
 > 电影王国：https://www.moviewg.com  
