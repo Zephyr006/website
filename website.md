@@ -19,6 +19,7 @@
 > Nyaa(动漫为主)：https://nyaa.si  
 > torrentkitty：https://www.torrentkitty.tv/search  
 #### Tools 
+> 云短信-在线短信接收：https://www.pdflibr.com  http://www.z-sms.com  
 > 网页版度盘下载：https://www.baiduwp.com  
 > 1024程序员工具箱：https://1024tools.com  
 > 玩转PDF转换：https://smallpdf.com/cn  
